@@ -8,7 +8,7 @@ OSINT investigation reports, case studies, and tools by Dark — Cyber Crime Inv
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dharamkathiriya-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dharamkathiriyaportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mynamedark-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mynamedark)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dharam-k-726742372)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharam-k-726742372)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharamkathiriya265@gmail.com)
 
 </div>
