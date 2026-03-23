@@ -1,12 +1,10 @@
-# osint-investigation-reports
-OSINT investigation reports, case studies, and tools by Dark — Cyber Crime Investigator
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Dharam+Kathiriya;OSINT+Analyst+%7C+Cyber+Crime+Investigator;Open+Source+Intelligence+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Dharam+Kathiriya;OSINT+Analyst+%7C+Cyber+Crime+Investigator;Threat+Actor+Profiling+%7C+Dark+Web+Intelligence;Open+Source+Intelligence+Specialist" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dharamkathiriya-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dharamkathiriyaportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dharamkathiriyaportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mynamedark-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mynamedark)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharam-k-726742372)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharamkathiriya265@gmail.com)
@@ -17,59 +15,73 @@ OSINT investigation reports, case studies, and tools by Dark — Cyber Crime Inv
 
 ## 👤 About Me
 
-I am **Dharam Kathiriya**, an OSINT Analyst and Cyber Crime Investigator based in **India**.
+I am **Dharam Kathiriya**, a Cyber Intelligence and OSINT Analyst with certified expertise in open-source intelligence, cybercrime investigation, and threat actor profiling. Currently interning as an **OSINT Research Analyst at [Deveillance](https://www.deveillance.io/)** (Jan–Jun 2026), a cybersecurity firm that quantifies financial cyber risk for enterprise clients.
 
-My work focuses on:
-- Investigating cybercrime, fraud, and digital threats using open source intelligence
-- Building evidence-based intelligence reports for investigative and security purposes
-- Profiling online entities, tracking digital footprints, and correlating data across platforms
-- Supporting cyber risk assessments with OSINT-driven intelligence
+I specialize in correlating emails, usernames, IPs, and domain data across multiple open sources to build actionable intelligence products aligned with **law enforcement documentation standards**. My work spans dark web monitoring, SOCMINT, IMINT, GEOINT, and phishing infrastructure analysis.
 
-This repository contains my **investigation reports, case studies, methodologies, and tools** — all using publicly available data or fictional scenarios for demonstration purposes.
+**Actively seeking remote junior roles** in OSINT Analysis and Cyber Crime Investigation — open to opportunities in USA/Canada, UK/Europe, and Australia/NZ.
 
 ---
 
 ## 🗂️ Report Index
 
-> All reports are in PDF format. Click the report title to view.
+> All reports are PDF format. Each report includes methodology, tools used, and findings.
 
 | # | Report Title | Category | Date | Tools Used | Status |
 |---|-------------|----------|------|------------|--------|
-| 01 | [Social Media Fake Profile Investigation](./reports/) | Social Media OSINT | 2026-02 | Maltego, Sherlock, WhatsMyName | ✅ Published |
-| 02 | [Domain & Infrastructure Intelligence](./reports/) | Domain OSINT | 2026-03 | Shodan, WHOIS, DNSDumpster | ✅ Published |
-| 03 | [Phishing Campaign Analysis](./reports/) | Cyber Crime | 2026-03 | VirusTotal, URLScan, OSINT Framework | ✅ Published |
-| 04 | [Corporate OSINT — Public Entity Profiling](./reports/) | Corporate Intel | 2026-04 | LinkedIn, MCA21, theHarvester | 🔄 In Progress |
-| 05 | [Geolocation Verification Report](./reports/) | Geolocation OSINT | 2026-04 | GeoSpy, Google Earth, SunCalc | 🔄 In Progress |
+| 01 | [Add your report title](./reports/) | Social Media OSINT | — | Maltego, Sherlock, GHunt | 🔄 Upload |
+| 02 | [Add your report title](./reports/) | Domain & IP Intel | — | Shodan, WHOIS, DNSDumpster | 🔄 Upload |
+| 03 | [Add your report title](./reports/) | Phishing Analysis | — | VirusTotal, URLScan, Abuse.ch | 🔄 Upload |
+| 04 | [Add your report title](./reports/) | Dark Web Intel | — | IntelligenceX, Ahmia, TOR | 🔄 Upload |
+| 05 | [Add your report title](./reports/) | GEOINT / IMINT | — | Google Earth, SunCalc, ExifTool | 🔄 Upload |
 
-> ⚠️ **Note:** All reports use publicly available data or fictional/anonymized scenarios. No private data is disclosed. Investigation methodologies follow ethical OSINT practices.
+> ⚠️ All reports use publicly available data or anonymized/fictional scenarios. No private or unauthorized data is used. Investigations follow strict ethical OSINT practices and law enforcement documentation standards.
 
 ---
 
 ## 🧰 Tools & Technologies
 
-### Investigation & OSINT
-![Maltego](https://img.shields.io/badge/Maltego-OSINT-orange?style=flat-square)
+### Core Investigation Platforms
+![Maltego](https://img.shields.io/badge/Maltego-Investigation-orange?style=flat-square)
+![ShadowDragon](https://img.shields.io/badge/ShadowDragon-Intel-darkred?style=flat-square)
+![Lampyre](https://img.shields.io/badge/Lampyre-Analysis-purple?style=flat-square)
+![OSINT Industries](https://img.shields.io/badge/OSINT%20Industries-Platform-blue?style=flat-square)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-Automation-teal?style=flat-square)
+
+### Recon & Infrastructure
 ![Shodan](https://img.shields.io/badge/Shodan-Recon-red?style=flat-square)
-![Recon--ng](https://img.shields.io/badge/Recon--ng-Recon-blue?style=flat-square)
+![Censys](https://img.shields.io/badge/Censys-Recon-blue?style=flat-square)
 ![theHarvester](https://img.shields.io/badge/theHarvester-Email%20OSINT-green?style=flat-square)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-Automation-purple?style=flat-square)
-![OSINT Framework](https://img.shields.io/badge/OSINT%20Framework-Research-yellow?style=flat-square)
+![Metagoofil](https://img.shields.io/badge/Metagoofil-Metadata-gray?style=flat-square)
+![DNSDumpster](https://img.shields.io/badge/DNSDumpster-DNS-blue?style=flat-square)
 
-### Social Media & People Intelligence
-![Sherlock](https://img.shields.io/badge/Sherlock-Username%20Search-black?style=flat-square)
-![WhatsMyName](https://img.shields.io/badge/WhatsMyName-Profiling-blue?style=flat-square)
-![Truecaller](https://img.shields.io/badge/Truecaller-Phone%20OSINT-teal?style=flat-square)
+### Identity & People Intelligence
+![Sherlock](https://img.shields.io/badge/Sherlock-Username-black?style=flat-square)
+![GHunt](https://img.shields.io/badge/GHunt-Google%20OSINT-red?style=flat-square)
+![Holehe](https://img.shields.io/badge/Holehe-Email%20Check-orange?style=flat-square)
+![Hunter.io](https://img.shields.io/badge/Hunter.io-Email%20Intel-yellow?style=flat-square)
 
-### Domain & Infrastructure
-![WHOIS](https://img.shields.io/badge/WHOIS-Domain%20Intel-gray?style=flat-square)
-![DNSDumpster](https://img.shields.io/badge/DNSDumpster-DNS%20Recon-blue?style=flat-square)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat%20Intel-navy?style=flat-square)
+### Threat Intelligence
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat%20Intel-blue?style=flat-square)
 ![URLScan](https://img.shields.io/badge/URLScan-URL%20Analysis-orange?style=flat-square)
+![Abuse.ch](https://img.shields.io/badge/Abuse.ch-Malware%20Intel-red?style=flat-square)
+![MXToolbox](https://img.shields.io/badge/MXToolbox-Email%20Security-gray?style=flat-square)
 
-### Geolocation & Image Analysis
+### Dark Web Intelligence
+![IntelligenceX](https://img.shields.io/badge/IntelligenceX-Dark%20Web-black?style=flat-square)
+![TOR](https://img.shields.io/badge/TOR%20Browser-Anonymity-purple?style=flat-square)
+![Ahmia](https://img.shields.io/badge/Ahmia-Onion%20Search-darkblue?style=flat-square)
+
+### SOCMINT
+![Twint](https://img.shields.io/badge/Twint-Twitter%20Intel-blue?style=flat-square)
+![Social Analyzer](https://img.shields.io/badge/Social%20Analyzer-SOCMINT-green?style=flat-square)
+
+### IMINT / GEOINT
 ![Google Earth](https://img.shields.io/badge/Google%20Earth-Geolocation-blue?style=flat-square)
 ![SunCalc](https://img.shields.io/badge/SunCalc-Shadow%20Analysis-yellow?style=flat-square)
 ![ExifTool](https://img.shields.io/badge/ExifTool-Metadata-gray?style=flat-square)
+![Pic2Map](https://img.shields.io/badge/Pic2Map-IMINT-teal?style=flat-square)
+![GeoGuessr Pro](https://img.shields.io/badge/GeoGuessr%20Pro-Geo%20Training-green?style=flat-square)
 
 ---
 
@@ -78,61 +90,103 @@ This repository contains my **investigation reports, case studies, methodologies
 ```
 osint-investigation-reports/
 │
-├── 📄 README.md                    ← You are here
+├── 📄 README.md                         ← You are here
 │
-├── 📂 reports/                     ← PDF investigation reports
-│   ├── 2026-02-social-media-investigation.pdf
-│   ├── 2026-03-domain-intel-report.pdf
-│   └── 2026-03-phishing-analysis.pdf
+├── 📂 reports/                          ← PDF investigation reports
+│   ├── YYYY-MM-report-title.pdf
+│   └── ...
 │
-├── 📂 case-studies/                ← Detailed written case studies
+├── 📂 case-studies/                     ← Written investigation walkthroughs
 │   ├── social-media-osint/
 │   │   └── README.md
-│   ├── domain-intel/
+│   ├── phishing-infrastructure/
 │   │   └── README.md
-│   └── cyber-crime-investigation/
+│   ├── dark-web-monitoring/
+│   │   └── README.md
+│   └── geoint-imint/
 │       └── README.md
 │
-├── 📂 tools-scripts/               ← Custom OSINT scripts & automation
+├── 📂 tools-scripts/                    ← Custom OSINT scripts
 │   ├── username-checker.py
 │   └── domain-recon.sh
 │
-├── 📂 templates/                   ← Reusable investigation templates
+├── 📂 templates/                        ← Reusable report templates
 │   ├── osint-report-template.pdf
 │   └── investigation-checklist.md
 │
-└── 📂 resources/                   ← Checklists, frameworks, references
-    ├── osint-tools-list.md
-    └── india-osint-sources.md
+└── 📂 resources/                        ← Reference lists and frameworks
+    ├── osint-tools-master-list.md
+    └── india-specific-osint-sources.md
 ```
 
 ---
 
 ## 🔍 Investigation Methodology
 
-My standard OSINT investigation process follows this framework:
+```
+1. DEFINE       → Clarify objectives, scope, and legal/ethical boundaries
+2. COLLECT      → Multi-source data gathering via OSINT tools and boolean search
+3. PROCESS      → Cross-reference and validate: usernames, emails, IPs, domains
+4. ANALYZE      → Identify patterns, correlations, threat actor footprints
+5. REPORT       → Structure findings to law enforcement documentation standards
+6. REVIEW       → Full chain-of-evidence verification before submission
+```
 
-```
-1. DEFINE       → Clarify objectives, scope, and legal boundaries
-2. COLLECT      → Gather raw data from open sources
-3. PROCESS      → Clean, organize, and validate data
-4. ANALYZE      → Identify patterns, connections, and anomalies
-5. REPORT       → Document findings in structured PDF report
-6. REVIEW       → Verify all claims against sources
-```
+---
+
+## 🕵️ Investigation Areas
+
+| Domain | Specialization |
+|--------|---------------|
+| **SOCMINT** | Social media intelligence, fake profile detection, impersonation mapping |
+| **IMINT** | Image intelligence, metadata extraction, reverse image analysis |
+| **GEOINT** | Satellite analysis, shadow dating, geolocation verification |
+| **Dark Web** | Forum monitoring, credential leak tracking, threat actor activity |
+| **Domain & IP** | WHOIS correlation, SSL certificate mapping, hosting infrastructure |
+| **Phishing** | Ecosystem mapping, scam infrastructure, registrant correlation |
+| **Financial Cybercrime** | Fraud network mapping, scam pattern analysis |
+| **Threat Actor Profiling** | Cross-platform digital footprint reconstruction |
 
 ---
 
 ## 🏢 Experience
 
-### OSINT Analyst Intern — [Deveillance](https://www.deveillance.io/)
+### OSINT Research Intern — [Deveillance](https://www.deveillance.io/)
 📅 January 2026 – June 2026 | 🌐 Remote
 
-Deveillance is a cybersecurity firm focused on quantifying the financial cost of cyber risk for enterprise clients. As an OSINT Analyst Intern, I support:
-- Open source intelligence gathering for cyber risk assessments
-- Investigation and profiling of digital threats and entities
-- Building evidence-based intelligence to support risk reduction decisions
-- Research supporting ethical hacking and incident response operations
+> Deveillance quantifies financial cyber risk for enterprise clients with 40+ years of combined cybersecurity experience, having served 73% of the ASX200.
+
+- Executed structured OSINT investigations using multi-source digital intelligence, advanced Google dorking, boolean search, and site-specific query techniques
+- Cross-referenced intelligence from social media, public records, and open databases — correlating usernames, emails, IPs, and domains into unified profiles
+- Verified and validated multi-source data to ensure investigative integrity before inclusion in final reports
+- Delivered analytical reports structured to law enforcement documentation standards with full chain-of-evidence considerations
+
+---
+
+### Independent OSINT & Cybercrime Investigator
+📅 2025 – Present | Self-Directed
+
+- Investigated phishing campaigns, online impersonation, and financial scam ecosystems — mapping domain ownership, SSL certificates, and registrant correlations
+- Built comprehensive threat actor digital footprint profiles by tracing IP addresses, hosting infrastructure, and cross-platform account activity
+- Monitored dark web forums and SOCMINT channels to track threat actor activity, leaked credentials, and early indicators of compromise
+- Produced investigation case reports modeled on law enforcement standards for evidence submission and case escalation
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| ✅ MOIS — Certified OSINT Expert | Masters of OSINT Intelligence Studies |
+| ✅ CSI Linux — Digital Forensics & Cyber Investigation | CSI Linux Institute |
+| ✅ Dark Web Operations | Security Blue Team |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Application (BCA)**
+Uka Tarsadia University · 2022 – 2025
 
 ---
 
@@ -148,33 +202,23 @@ Deveillance is a cybersecurity firm focused on quantifying the financial cost of
 
 ---
 
-## 📜 Certifications
+## 🤝 Open to Remote Opportunities
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| *(Add your certifications here)* | — | — |
-| *(e.g. Google Cybersecurity Certificate)* | Google | — |
-| *(e.g. OSINT Foundation Certificate)* | OSINT Foundation | — |
+Actively seeking **remote junior roles** in:
 
----
+🔍 OSINT Analysis · 🕵️ Cyber Crime Investigation · 🛡️ Threat Intelligence · 🌐 Digital Forensics
 
-## 🤝 Open to Opportunities
+**Target regions:** World Wide
 
-I am actively seeking **remote junior roles** in:
-- 🔍 OSINT Analysis
-- 🕵️ Cyber Crime Investigation
-- 🛡️ Threat Intelligence
-
-**Target regions:** USA / Canada · UK / Europe · Australia / NZ
-
-> 📩 Reach out via [LinkedIn](https://linkedin.com/in/dharam-k-726742372) or [email](mailto:dharamkathiriya265@gmail.com)
+📩 [LinkedIn](https://linkedin.com/in/dharam-k-726742372) · [Email](mailto:dharamkathiriya265@gmail.com) · [Portfolio](https://dharamkathiriyaportfolio.netlify.app/)
 
 ---
 
 <div align="center">
 
-*All investigations in this repository are conducted ethically using publicly available information. No private data, credentials, or unauthorized access methods are used or disclosed.*
+*All investigations are conducted ethically using publicly available information only.*
+*No private data, credentials, or unauthorized access methods are used or disclosed.*
 
-⭐ If you find this work useful, consider starring this repository!
+⭐ If you find this work useful, please consider starring this repository!
 
 </div>
