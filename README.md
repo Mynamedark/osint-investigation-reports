@@ -164,11 +164,10 @@ I am actively seeking **remote junior roles** in:
 - 🔍 OSINT Analysis
 - 🕵️ Cyber Crime Investigation
 - 🛡️ Threat Intelligence
-- 🌐 Digital Forensics
 
 **Target regions:** USA / Canada · UK / Europe · Australia / NZ
 
-> 📩 Reach out via [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HERE) or [email](mailto:YOUR-EMAIL-HERE)
+> 📩 Reach out via [LinkedIn](https://linkedin.com/in/dharam-k-726742372) or [email](mailto:dharamkathiriya265@gmail.com)
 
 ---
 
