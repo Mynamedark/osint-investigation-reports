@@ -17,7 +17,7 @@ OSINT investigation reports, case studies, and tools by Dark — Cyber Crime Inv
 
 ## 👤 About Me
 
-I am **Dharam Kathiriya**, an OSINT Analyst and Cyber Crime Investigator based in **Ahmedabad, India**, currently working as an **OSINT Analyst Intern at [Deveillance](https://www.deveillance.io/)** (Jan 2026 – Jun 2026) — a cybersecurity firm specializing in quantifying financial cyber risk for enterprise clients.
+I am **Dharam Kathiriya**, an OSINT Analyst and Cyber Crime Investigator based in **India**.
 
 My work focuses on:
 - Investigating cybercrime, fraud, and digital threats using open source intelligence
