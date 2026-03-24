@@ -30,7 +30,7 @@ I specialize in correlating emails, usernames, IPs, and domain data across multi
 
 | # | Report Title | Category | Date | Key Tools | Status |
 |---|-------------|----------|------|-----------|--------|
-| 01 | [**Operation Epic Fury — US–Israel vs Iran Conflict Intelligence, GEOINT & Cyber Threat Assessment**](./OSINT-IR-2026-001.pdf/) | Conflict Intel / GEOINT / Cyber | Mar 2026 | Maltego, Shodan, ShadowDragon, Sentinel Hub, iranstrikemap.com, ACLED | ✅ Published |
+| 01 | [**Operation Epic Fury — US–Israel vs Iran Conflict Intelligence, GEOINT & Cyber Threat Assessment**](./OSINT-IR-2026-001.pdf.pdf/) | Conflict Intel / GEOINT / Cyber | Mar 2026 | Maltego, Shodan, ShadowDragon, Sentinel Hub, iranstrikemap.com, ACLED | ✅ Published |
 | 02 | [Add your report title](./reports/) | Social Media OSINT | — | Maltego, Sherlock, GHunt | 🔄 Upcoming |
 | 03 | [Add your report title](./reports/) | Domain & IP Intel | — | Shodan, WHOIS, DNSDumpster | 🔄 Upcoming |
 | 04 | [Add your report title](./reports/) | Phishing Analysis | — | VirusTotal, URLScan, Abuse.ch | 🔄 Upcoming |
@@ -40,7 +40,7 @@ I specialize in correlating emails, usernames, IPs, and domain data across multi
 
 ---
 
-## 📌 Featured Report — OSINT-IR-2026-001
+## 📌 Featured Report — OSINT-IR-2026-001.pdf
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ A comprehensive intelligence report covering the February–March 2026 military 
 ![Locations](https://img.shields.io/badge/GEOINT-25_Locations-teal?style=for-the-badge)
 ![Actors](https://img.shields.io/badge/Cyber_Actors-8_Profiled-purple?style=for-the-badge)
 
-**[→ View Full Report](./OSINT-IR-2026-001/)**
+**[→ View Full Report](./OSINT-IR-2026-001.pdf/)**
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ osint-investigation-reports/
 │
 ├── 📄 README.md                              ← You are here
 │
-├── 📂 OSINT-IR-2026-001/                     ← ✅ PUBLISHED REPORT
+├── 📂 OSINT-IR-2026-001.pdf/                     ← ✅ PUBLISHED REPORT
 │   ├── README.md                             ← Report-specific README
 │   ├── OSINT_Iran_Report_2026_v2.docx        ← Full intelligence report (.docx)
 │   ├── geoint-screenshots/                   ← Satellite imagery (SoarAtlas/Sentinel Hub)
@@ -213,7 +213,7 @@ osint-investigation-reports/
 
 - Executed structured OSINT investigations using multi-source digital intelligence, advanced Google dorking, boolean search, and site-specific query techniques
 - Cross-referenced intelligence from social media, public records, and open databases — correlating usernames, emails, IPs, and domains into unified profiles
-- Produced conflict intelligence report **OSINT-IR-2026-001** covering the US–Israel vs Iran military campaign with 25 verified GEOINT locations and full cyber threat actor profiling
+- Produced conflict intelligence report **OSINT-IR-2026-001.pdf** covering the US–Israel vs Iran military campaign with 25 verified GEOINT locations and full cyber threat actor profiling
 - Verified and validated multi-source data to ensure investigative integrity before inclusion in final reports
 - Delivered analytical reports structured to law enforcement documentation standards with full chain-of-evidence considerations
 
