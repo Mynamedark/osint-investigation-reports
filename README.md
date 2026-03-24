@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Dharam+Kathiriya;OSINT+Analyst+%7C+Cyber+Crime+Investigator;Threat+Actor+Profiling+%7C+Dark+Web+Intelligence;Open+Source+Intelligence+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Dharam+Kathiriya;OSINT+Analyst+%7C+Cyber+Crime+Investigator;Threat+Actor+Profiling+%7C+Dark+Web+Intelligence;GEOINT+%7C+SOCMINT+%7C+Conflict+Intelligence" alt="Typing SVG" />
 
 <br/>
 
@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Mynamedark-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mynamedark)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dharam-k-726742372)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharamkathiriya265@gmail.com)
+[![Reports](https://img.shields.io/badge/Reports-1_Published-green?style=for-the-badge&logo=files&logoColor=white)](#-report-index)
 
 </div>
 
@@ -17,25 +18,60 @@
 
 I am **Dharam Kathiriya**, a Cyber Intelligence and OSINT Analyst with certified expertise in open-source intelligence, cybercrime investigation, and threat actor profiling. Currently interning as an **OSINT Research Analyst at [Deveillance](https://www.deveillance.io/)** (Jan–Jun 2026), a cybersecurity firm that quantifies financial cyber risk for enterprise clients.
 
-I specialize in correlating emails, usernames, IPs, and domain data across multiple open sources to build actionable intelligence products aligned with **law enforcement documentation standards**. My work spans dark web monitoring, SOCMINT, IMINT, GEOINT, and phishing infrastructure analysis.
+I specialize in correlating emails, usernames, IPs, and domain data across multiple open sources to build actionable intelligence products aligned with **law enforcement documentation standards**. My work spans dark web monitoring, SOCMINT, IMINT, GEOINT, phishing infrastructure analysis, and conflict intelligence.
 
-**Actively seeking remote junior roles** in OSINT Analysis and Cyber Crime Investigation — open to opportunities in USA/Canada, UK/Europe, and Australia/NZ.
+**Actively seeking remote junior roles** in OSINT Analysis and Cyber Crime Investigation — open to opportunities worldwide.
 
 ---
 
 ## 🗂️ Report Index
 
-> All reports are PDF format. Each report includes methodology, tools used, and findings.
+> All reports include full methodology, verified sources, tools used, and findings structured to law enforcement documentation standards.
 
-| # | Report Title | Category | Date | Tools Used | Status |
-|---|-------------|----------|------|------------|--------|
-| 01 | [Add your report title](./reports/) | Social Media OSINT | — | Maltego, Sherlock, GHunt | 🔄 Upload |
-| 02 | [Add your report title](./reports/) | Domain & IP Intel | — | Shodan, WHOIS, DNSDumpster | 🔄 Upload |
-| 03 | [Add your report title](./reports/) | Phishing Analysis | — | VirusTotal, URLScan, Abuse.ch | 🔄 Upload |
-| 04 | [Add your report title](./reports/) | Dark Web Intel | — | IntelligenceX, Ahmia, TOR | 🔄 Upload |
-| 05 | [Add your report title](./reports/) | GEOINT / IMINT | — | Google Earth, SunCalc, ExifTool | 🔄 Upload |
+| # | Report Title | Category | Date | Key Tools | Status |
+|---|-------------|----------|------|-----------|--------|
+| 01 | [**Operation Epic Fury — US–Israel vs Iran Conflict Intelligence, GEOINT & Cyber Threat Assessment**](./OSINT-IR-2026-001/) | Conflict Intel / GEOINT / Cyber | Mar 2026 | Maltego, Shodan, ShadowDragon, Sentinel Hub, iranstrikemap.com, ACLED | ✅ Published |
+| 02 | [Add your report title](./reports/) | Social Media OSINT | — | Maltego, Sherlock, GHunt | 🔄 Upcoming |
+| 03 | [Add your report title](./reports/) | Domain & IP Intel | — | Shodan, WHOIS, DNSDumpster | 🔄 Upcoming |
+| 04 | [Add your report title](./reports/) | Phishing Analysis | — | VirusTotal, URLScan, Abuse.ch | 🔄 Upcoming |
+| 05 | [Add your report title](./reports/) | Dark Web Intel | — | IntelligenceX, Ahmia, TOR | 🔄 Upcoming |
 
 > ⚠️ All reports use publicly available data or anonymized/fictional scenarios. No private or unauthorized data is used. Investigations follow strict ethical OSINT practices and law enforcement documentation standards.
+
+---
+
+## 📌 Featured Report — OSINT-IR-2026-001
+
+<table>
+<tr>
+<td width="60%">
+
+### 🔴 Operation Epic Fury: US–Israel vs Iran
+**Conflict Intelligence, GEOINT & Cyber Threat Assessment**
+
+A comprehensive intelligence report covering the February–March 2026 military campaign, including:
+
+- **25 verified GEOINT locations** with WGS84 coordinates
+- **8 cyber threat actors** profiled (MuddyWater, Handala, CyberAv3ngers & more)
+- **2,300+ conflict events** mapped across 29 of 31 Iranian provinces
+- **5 embedded diagrams** — strike map, stats dashboard, cyber network, satellite grid, tools comparison
+- **13 primary OSINT sources** — Al Jazeera, Reuters, ACLED, IAEA, Unit 42, SOCRadar
+
+</td>
+<td width="40%" align="center">
+
+![Report](https://img.shields.io/badge/Report_ID-OSINT--IR--2026--001-blue?style=for-the-badge)
+![TLP](https://img.shields.io/badge/TLP-WHITE-lightgrey?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Published-green?style=for-the-badge)
+![Period](https://img.shields.io/badge/Period-Feb–Mar_2026-red?style=for-the-badge)
+![Locations](https://img.shields.io/badge/GEOINT-25_Locations-teal?style=for-the-badge)
+![Actors](https://img.shields.io/badge/Cyber_Actors-8_Profiled-purple?style=for-the-badge)
+
+**[→ View Full Report](./OSINT-IR-2026-001/)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,12 +112,16 @@ I specialize in correlating emails, usernames, IPs, and domain data across multi
 ![Twint](https://img.shields.io/badge/Twint-Twitter%20Intel-blue?style=flat-square)
 ![Social Analyzer](https://img.shields.io/badge/Social%20Analyzer-SOCMINT-green?style=flat-square)
 
-### IMINT / GEOINT
+### GEOINT / IMINT / Satellite
+![Sentinel Hub](https://img.shields.io/badge/Sentinel%20Hub-EO%20Browser-brightgreen?style=flat-square)
+![SoarAtlas](https://img.shields.io/badge/SoarAtlas-Satellite-teal?style=flat-square)
+![NASA FIRMS](https://img.shields.io/badge/NASA%20FIRMS-Thermal%20Detection-orange?style=flat-square)
+![GeoConfirmed](https://img.shields.io/badge/GeoConfirmed-GEOINT-red?style=flat-square)
 ![Google Earth](https://img.shields.io/badge/Google%20Earth-Geolocation-blue?style=flat-square)
 ![SunCalc](https://img.shields.io/badge/SunCalc-Shadow%20Analysis-yellow?style=flat-square)
 ![ExifTool](https://img.shields.io/badge/ExifTool-Metadata-gray?style=flat-square)
 ![Pic2Map](https://img.shields.io/badge/Pic2Map-IMINT-teal?style=flat-square)
-![GeoGuessr Pro](https://img.shields.io/badge/GeoGuessr%20Pro-Geo%20Training-green?style=flat-square)
+![glint.trade](https://img.shields.io/badge/glint.trade-Crisis%20Monitor-navy?style=flat-square)
 
 ---
 
@@ -90,13 +130,25 @@ I specialize in correlating emails, usernames, IPs, and domain data across multi
 ```
 osint-investigation-reports/
 │
-├── 📄 README.md                         ← You are here
+├── 📄 README.md                              ← You are here
 │
-├── 📂 reports/                          ← PDF investigation reports
-│   ├── YYYY-MM-report-title.pdf
-│   └── ...
+├── 📂 OSINT-IR-2026-001/                     ← ✅ PUBLISHED REPORT
+│   ├── README.md                             ← Report-specific README
+│   ├── OSINT_Iran_Report_2026_v2.docx        ← Full intelligence report (.docx)
+│   ├── geoint-screenshots/                   ← Satellite imagery (SoarAtlas/Sentinel Hub)
+│   │   ├── fig4a-natanz-post-strike.png
+│   │   ├── fig4b-khamenei-compound.png
+│   │   ├── fig4c-konarak-naval-base.png
+│   │   ├── fig4d-ras-tanura-fire.png
+│   │   ├── fig4e-dimona-arad-damage.png
+│   │   └── fig4f-mountain-missile-silos.png
+│   └── x-posts/                              ← X/Twitter OSINT evidence
+│       └── sources.md
 │
-├── 📂 case-studies/                     ← Written investigation walkthroughs
+├── 📂 reports/                               ← Upcoming PDF reports
+│   └── YYYY-MM-report-title.docx/pdf
+│
+├── 📂 case-studies/                          ← Written investigation walkthroughs
 │   ├── social-media-osint/
 │   │   └── README.md
 │   ├── phishing-infrastructure/
@@ -106,16 +158,17 @@ osint-investigation-reports/
 │   └── geoint-imint/
 │       └── README.md
 │
-├── 📂 tools-scripts/                    ← Custom OSINT scripts
+├── 📂 tools-scripts/                         ← Custom OSINT scripts
 │   ├── username-checker.py
 │   └── domain-recon.sh
 │
-├── 📂 templates/                        ← Reusable report templates
-│   ├── osint-report-template.pdf
+├── 📂 templates/                             ← Reusable report templates
+│   ├── osint-report-template.docx
 │   └── investigation-checklist.md
 │
-└── 📂 resources/                        ← Reference lists and frameworks
+└── 📂 resources/                             ← Reference lists and frameworks
     ├── osint-tools-master-list.md
+    ├── satellite-geoint-guide.md
     └── india-specific-osint-sources.md
 ```
 
@@ -126,8 +179,8 @@ osint-investigation-reports/
 ```
 1. DEFINE       → Clarify objectives, scope, and legal/ethical boundaries
 2. COLLECT      → Multi-source data gathering via OSINT tools and boolean search
-3. PROCESS      → Cross-reference and validate: usernames, emails, IPs, domains
-4. ANALYZE      → Identify patterns, correlations, threat actor footprints
+3. PROCESS      → Cross-reference and validate: usernames, emails, IPs, domains, coordinates
+4. ANALYZE      → Identify patterns, correlations, threat actor footprints, strike patterns
 5. REPORT       → Structure findings to law enforcement documentation standards
 6. REVIEW       → Full chain-of-evidence verification before submission
 ```
@@ -138,12 +191,14 @@ osint-investigation-reports/
 
 | Domain | Specialization |
 |--------|---------------|
+| **Conflict OSINT** | Kinetic conflict tracking, strike verification, OSINT war reporting |
+| **GEOINT** | Satellite analysis, coordinate verification, shadow dating, SoarAtlas/Sentinel Hub |
 | **SOCMINT** | Social media intelligence, fake profile detection, impersonation mapping |
 | **IMINT** | Image intelligence, metadata extraction, reverse image analysis |
-| **GEOINT** | Satellite analysis, shadow dating, geolocation verification |
 | **Dark Web** | Forum monitoring, credential leak tracking, threat actor activity |
 | **Domain & IP** | WHOIS correlation, SSL certificate mapping, hosting infrastructure |
 | **Phishing** | Ecosystem mapping, scam infrastructure, registrant correlation |
+| **Cyber Threat Intel** | APT profiling, hacktivist tracking, ICS/SCADA threat monitoring |
 | **Financial Cybercrime** | Fraud network mapping, scam pattern analysis |
 | **Threat Actor Profiling** | Cross-platform digital footprint reconstruction |
 
@@ -158,6 +213,7 @@ osint-investigation-reports/
 
 - Executed structured OSINT investigations using multi-source digital intelligence, advanced Google dorking, boolean search, and site-specific query techniques
 - Cross-referenced intelligence from social media, public records, and open databases — correlating usernames, emails, IPs, and domains into unified profiles
+- Produced conflict intelligence report **OSINT-IR-2026-001** covering the US–Israel vs Iran military campaign with 25 verified GEOINT locations and full cyber threat actor profiling
 - Verified and validated multi-source data to ensure investigative integrity before inclusion in final reports
 - Delivered analytical reports structured to law enforcement documentation standards with full chain-of-evidence considerations
 
@@ -206,9 +262,9 @@ Uka Tarsadia University · 2022 – 2025
 
 Actively seeking **remote junior roles** in:
 
-🔍 OSINT Analysis · 🕵️ Cyber Crime Investigation · 🛡️ Threat Intelligence · 🌐 Digital Forensics
+🔍 OSINT Analysis · 🕵️ Cyber Crime Investigation · 🛡️ Threat Intelligence · 🌐 Digital Forensics · 🛰️ GEOINT
 
-**Target regions:** World Wide
+**Open to opportunities worldwide**
 
 📩 [LinkedIn](https://linkedin.com/in/dharam-k-726742372) · [Email](mailto:dharamkathiriya265@gmail.com) · [Portfolio](https://dharamkathiriyaportfolio.netlify.app/)
 
