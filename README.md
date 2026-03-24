@@ -132,9 +132,9 @@ osint-investigation-reports/
 │
 ├── 📄 README.md                              ← You are here
 │
-├── 📂 OSINT-IR-2026-001.pdf/                     ← ✅ PUBLISHED REPORT
+├── 📂 OSINT-IR-2026-001/                    ← ✅ PUBLISHED REPORT
 │   ├── README.md                             ← Report-specific README
-│   ├── OSINT_Iran_Report_2026_v2.docx        ← Full intelligence report (.docx)
+│   ├── OSINT-IR-2026-001.pdf                 ← Full intelligence report (.docx)
 │   ├── geoint-screenshots/                   ← Satellite imagery (SoarAtlas/Sentinel Hub)
 │   │   ├── fig4a-natanz-post-strike.png
 │   │   ├── fig4b-khamenei-compound.png
