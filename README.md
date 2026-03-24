@@ -30,7 +30,7 @@ I specialize in correlating emails, usernames, IPs, and domain data across multi
 
 | # | Report Title | Category | Date | Key Tools | Status |
 |---|-------------|----------|------|-----------|--------|
-| 01 | [**Operation Epic Fury — US–Israel vs Iran Conflict Intelligence, GEOINT & Cyber Threat Assessment**](./OSINT-IR-2026-001/) | Conflict Intel / GEOINT / Cyber | Mar 2026 | Maltego, Shodan, ShadowDragon, Sentinel Hub, iranstrikemap.com, ACLED | ✅ Published |
+| 01 | [**Operation Epic Fury — US–Israel vs Iran Conflict Intelligence, GEOINT & Cyber Threat Assessment**](./OSINT-IR-2026-001.pdf/) | Conflict Intel / GEOINT / Cyber | Mar 2026 | Maltego, Shodan, ShadowDragon, Sentinel Hub, iranstrikemap.com, ACLED | ✅ Published |
 | 02 | [Add your report title](./reports/) | Social Media OSINT | — | Maltego, Sherlock, GHunt | 🔄 Upcoming |
 | 03 | [Add your report title](./reports/) | Domain & IP Intel | — | Shodan, WHOIS, DNSDumpster | 🔄 Upcoming |
 | 04 | [Add your report title](./reports/) | Phishing Analysis | — | VirusTotal, URLScan, Abuse.ch | 🔄 Upcoming |
