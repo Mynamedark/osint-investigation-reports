@@ -150,7 +150,7 @@ osint-investigation-reports/
 ├── README.md
 ├── OSINT-IR-2026-001/          ← Published — Iran GEOINT Report
 │   ├── README.md
-│   ├── OSINT_Iran_Report_2026_v2.docx
+│   ├── OSINT_Iran_Report_2026.pdf
 │   ├── geoint-screenshots/
 │   └── x-posts/
 ├── CASE-2025-001/              ← Fake Profile Fraud (Confidential)
